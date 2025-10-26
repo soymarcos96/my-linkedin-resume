@@ -1,0 +1,100 @@
+{
+  "basics": {
+    "name": "Marcos Eduardo Winiarski",
+    "label": "Software Engineer",
+    "email": "marcoseduardowiniarski@gmail.com",
+    "phone": "+55 45 99918-9193",
+    "location": {
+      "city": "Capitão Leônidas Marques",
+      "region": "Paraná",
+      "country": "Brazil"
+    },
+    "summary": "Front-end developer focused on usability, accessibility, and performance. I enjoy building applications that make sense within their context. With 6 years of experience, I like to be involved in the entire development workflow, especially in task planning and testing processes. I'm communicative and believe that one of the key pillars for any developer is strong communication.",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "marcosmew96",
+        "url": "https://www.linkedin.com/in/marcosmew96"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Softplan",
+      "position": "Software Engineer",
+      "location": "Capitão Leônidas Marques, Paraná, Brazil",
+      "startDate": "2024-02",
+      "summary": "Focused on building accessible and high-performance interfaces on the SAJ Online product within the Document Management team.",
+      "highlights": [
+        "Improved navigation speed between documents through advanced caching strategies.",
+        "Implemented an AI-powered chatbot to assist users in retrieving key information from legal documents.",
+        "Enhanced accessibility (a11y) in the document viewer to better support users with disabilities."
+      ]
+    },
+    {
+      "name": "Ambev Tech",
+      "position": "Front-End Developer | Tech Lead",
+      "location": "Capitão Leônidas Marques, Paraná, Brazil",
+      "startDate": "2022-05",
+      "endDate": "2024-01",
+      "summary": "Led architectural improvements, front-end optimization, and demand prioritization while collaborating with the UX team.",
+      "highlights": [
+        "Migrated authentication model to Azure B2C, improving security and maintainability.",
+        "Designed and implemented the internationalization (i18n) structure for global rollout.",
+        "Established a front-end coding standard (linter + config), improving team efficiency and architecture consistency."
+      ]
+    },
+    {
+      "name": "Ambev Tech",
+      "position": "Front-End Developer",
+      "location": "Blumenau, Santa Catarina, Brazil",
+      "startDate": "2019-05",
+      "endDate": "2022-06",
+      "summary": "Front-end development for the MRP project."
+    },
+    {
+      "name": "MV",
+      "position": "Front-End Developer",
+      "location": "Cascavel, Paraná, Brazil",
+      "startDate": "2018-04",
+      "endDate": "2019-05",
+      "summary": "Front-end development for the public health sector."
+    },
+    {
+      "name": "Sanepar",
+      "position": "IT Support Technician",
+      "startDate": "2016-10",
+      "endDate": "2018-02",
+      "summary": "Provided IT support, troubleshooting, and hardware maintenance.",
+      "highlights": [
+        "Communicated with users to identify and resolve issues.",
+        "Tracked work progress and documented issues and solutions.",
+        "Serviced printers, projectors, and networks.",
+        "Set up and upgraded hardware systems."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Univel",
+      "area": "Análise e Desenvolvimento de Sistemas",
+      "studyType": "Tecnologia",
+      "startDate": "2015",
+      "endDate": "2017"
+    }
+  ],
+  "skills": [
+    { "name": "React" },
+    { "name": "TypeScript" },
+    { "name": "React Testing Library" },
+    { "name": "Accessibility (a11y)" },
+    { "name": "GraphQL / Apollo Client" },
+    { "name": "Testing flow" },
+    { "name": "Lerna" },
+    { "name": "Yarn workspaces" }
+  ],
+  "languages": [
+    { "language": "Portuguese", "fluency": "Native" },
+    { "language": "English", "fluency": "Intermediate" }
+  ]
+}
